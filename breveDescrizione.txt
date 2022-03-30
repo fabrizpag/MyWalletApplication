@@ -1,0 +1,24 @@
+MyWallet è un'applicazione mobile per una gestione delle spese facile e immediata.
+Concepita per un uso personale, promuove un controllo più consapevole del proprio 
+budget: facilitando l'attività del risparmio, permettendo all'utente di evitare 
+ritardi nei pagamenti e tenendo traccia di tutte le entrate e le uscite.
+ 
+	 MyWallet permette di:
+
+1) Gestire più account e proteggere i propri dati con una password
+
+2) Definire spese e guadagni ricorrenti
+
+3) Tenere traccia degli acquisti quotidiani
+
+4) Impostare una spesa limite ( mensile o settimanale) superata la quale viene notificato all'utente
+
+5) Avere un resoconto del proprio bilancio economico e visualizzare grafici relativi alle spese
+
+6) Specificare il budget disponibile, il saldo si aggiornerà automaticamente in base alle entrate e uscite confermate dall'utente
+
+7) Definire una lista di creditori e/o debitori
+
+8) Impostare una scadenza per una spesa ( con l'eventuale utilizzo di notifiche e/o sveglie) e anche specificare se sono singole o condivise
+
+
